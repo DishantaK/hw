@@ -1,0 +1,52 @@
+body {
+    background-image: url('assets/bckgrnd.png');
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    line-height: 1.5;
+}
+h2 {
+    font-size: 1.5em;
+}
+header {
+    margin: 30px;
+    padding: 5px;
+}
+header img {
+    margin-right: 7px;
+}
+a:active {
+   
+}
+#about{
+    color: #333333;
+    margin: 30px;
+    padding-top: 50px;
+}
+#about h2 {
+    font-weight: bolder;
+}
+.profile {
+
+    width: 200px;
+    height: 200px;
+    border: 3px solid #2c5fa8;
+    border-radius: 50%;
+    
+}
+#portfolio {
+    background-color: rgba(150,150,150,.6);
+    color: #ffffff;
+    padding: 30px 50px 10px;
+}
+.p {
+    margin: 5px 20px 40px 0px;
+}
+#portfolio h2 {
+    margin-bottom: 20px;
+}
+footer {
+    border-top: #ffffff;
+}
